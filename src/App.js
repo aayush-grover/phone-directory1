@@ -4,6 +4,7 @@ class App extends Component {
   render() {
     return (
     <div>
+      Phone Directory
     </div>
   );
 }
